@@ -1,0 +1,225 @@
+/* =========== /common styles ========== */
+ul, ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+ button{
+    cursor: pointer;
+ }
+
+img {
+    display: block;
+}
+
+body{
+font-family: "Roboto", sans-serif;
+color: #434455;
+background: #fff;
+}
+/* =========== /common styles ========== */
+
+
+
+/* =========== /header ========== */
+.logo{
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+.text-italic {
+    color:#2e2f42;;
+}
+.men-link{
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #2e2f42;
+}
+
+.men-link:focus,
+.men-link:hover{
+color: #404bbf
+}
+.iteam-info {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.iteam-info:hover,
+.iteam-info:focus {
+        color: #404bbf;
+}
+
+.address-iteam-info{
+ font-style: normal;
+}
+/* =========== /header ========== */
+
+/* =========== /main ========== */
+/* ====== /hero ====== */
+.hero-section{
+    background: #2e2f42;
+}
+.hero-tittle{
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.hero-btn{
+
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background: #4d5ae5;
+        
+}
+
+.hero-btn:focus,
+.hero-btn:hover{
+        background-color: #404BBF
+}
+
+/* ====== /hero ====== */
+/* ====== /benefits-sect ====== */
+
+.benefits-sect{
+        color:#2e2f42;
+}
+
+.benefits-tit{
+   
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.benefits-para{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* ====== /benefits-sect ====== */
+/* ====== /team ====== */
+
+.team{
+    background: #F4F4FD;
+}
+.team-h{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-li{
+        background-color: #FFFFFF;
+}
+
+
+.team-name{
+    
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center; 
+        color:#2e2f42;
+}
+.team-para{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+/* ====== /portfolio ====== */
+.sec-portfolio{
+        background: #fff;
+}
+.portfolio{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        text-align: center;
+
+}
+
+.port-headline{
+       
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                color: #2e2f42;
+
+}
+
+.portfolio-para{
+        
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                color: #434455;
+
+}
+
+
+
+
+/* ====== /portfolio ====== */
+
+/* =========== /main ========== */
+
+/* =========== /footer ========== */
+
+.down-page{
+    background: #2e2f42;
+}
+.last-para{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
+.logo-foot{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+      
+}
+.text-logo{      color: #f4f4fd;
+}
+
+
+
+/* =========== /footer ========== */
