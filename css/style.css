@@ -32,9 +32,12 @@ color: #434455;
 background: #fff;
 }
 .container{
-        width:1441 ;
+        max-width: 1158px;
+        padding: 0  15px;
+        margin:0 auto;
         margin-left: auto;
         margin-right: auto;
+
 }
 /* =========== /common styles ========== */
 
@@ -46,6 +49,9 @@ background: #fff;
 .header-container{
         display: flex;
         justify-content: space-between;
+                max-width: 1158px;
+                        padding: 0 15px;
+                        margin: 0 auto;
         
 }
 .top-nav{
