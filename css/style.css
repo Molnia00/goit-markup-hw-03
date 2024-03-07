@@ -32,7 +32,7 @@ color: #434455;
 background: #fff;
 }
 .container{
-        max-width: 1158px;
+        max-width: 1455px;
         padding: 0  15px;
         margin:0 auto;
         margin-left: auto;
@@ -47,11 +47,11 @@ background: #fff;
 
 
 .header-container{
-        display: flex;
-        justify-content: space-between;
-                max-width: 1158px;
-                        padding: 0 15px;
-                        margin: 0 auto;
+         display: flex;
+         justify-content: space-between;
+         max-width: 1158px;
+         padding: 0 15px;
+         margin: 0 auto;
         
 }
 .top-nav{
