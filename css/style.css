@@ -67,14 +67,9 @@ background: #fff;
         column-gap:  40px;
 }
 
-.iteam-menu{
-        margin-right: 40px;
-}
-.iteam-menu1{
-        margin-right: 0;
-}
+
         
-        .logo{
+     .logo{
         font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
