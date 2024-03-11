@@ -171,8 +171,16 @@ background: #fff;
 /* ====== /benefits-sect ====== */
 .section-2{
         padding: 120px 0;
-        
+
 }
+
+.benefits-ul{
+        display: flex;
+        gap: 24px;
+}
+ .benefit-li{
+        width: calc((100% - 72px) / 4)
+ }
 .benefits-sect{
         color:#2e2f42;
 }
