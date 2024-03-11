@@ -205,8 +205,9 @@ background: #fff;
 
 .team{
     background: #F4F4FD;
+    padding: 120px 0;
 }
-.team-h{
+.tit-team{
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -214,10 +215,17 @@ background: #fff;
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 
+.team-ul{
+        display: flex;
+        gap: 24px;
+}
 .team-li{
         background-color: #FFFFFF;
+        width: calc((100% - 72px) / 4);
+        border-radius: 0px 0px 4px 4px;
 }
 
 
