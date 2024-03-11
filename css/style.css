@@ -312,6 +312,7 @@ background: #fff;
 
 .down-page{
     background: #2e2f42;
+    padding: 100px 0;
 }
 .last-para{
         font-weight: 400;
@@ -319,6 +320,7 @@ background: #fff;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+        max-width: 264px
 }
 .logo-foot{
     font-family: "Raleway", sans-serif;
@@ -328,7 +330,8 @@ background: #fff;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
-      
+        display: inline-block;
+        margin-bottom: 16px;
 }
 .text-logo{      color: #f4f4fd;
 }
