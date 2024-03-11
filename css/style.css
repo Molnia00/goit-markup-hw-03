@@ -32,11 +32,11 @@ color: #434455;
 background: #fff;
 }
 .container{
-        max-width: 1455px;
-        padding: 0  15px;
-        margin:0 auto;
-        margin-left: auto;
+        max-width: 1158px;
+        padding-left: 15px;
+        padding-right: 15 px;
         margin-right: auto;
+        margin-left: auto;
 
 }
 /* =========== /common styles ========== */
