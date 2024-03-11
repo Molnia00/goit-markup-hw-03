@@ -45,6 +45,30 @@ background: #fff;
 
 /* =========== /header ========== */
 
+/* === /menu === */
+.page-menu {
+        display: flex;
+        gap: 40px;
+}
+
+
+.menu-link {
+        display: block;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        padding-top: 24px;
+        padding-bottom: 24px;
+}
+
+.men-link:focus,
+.men-link:hover {
+        color: #404bbf
+}
+
+/* === /menu === */
 .page-header{
         border-bottom: 1px solid #e7e9fc
 }
@@ -62,10 +86,7 @@ background: #fff;
         justify-content: space-between;
         align-items: center;
 }
-.page-menu{
-        display: flex;
-        gap:  40px;
-}
+
 
 
         
@@ -87,21 +108,9 @@ background: #fff;
 .text-italic {
     color:#2e2f42;;
 }
-.menu-link{
-        display: block;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-        padding-top: 24px;
-        padding-bottom: 24px;
-}
 
-.men-link:focus,
-.men-link:hover{
-color: #404bbf
-}
+
+
 .iteam-info {
         font-size: 16px;
         line-height: 1.5;
