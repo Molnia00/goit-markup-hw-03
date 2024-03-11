@@ -255,6 +255,7 @@ background: #fff;
 .sec-portfolio{
         background: #fff;
         padding-top: 120px;
+        padding-bottom: 120px;
 }
 .portfolio{
         font-weight: 700;
@@ -273,6 +274,7 @@ background: #fff;
                 line-height: 1.2;
                 letter-spacing: 0.02em;
                 color: #2e2f42;
+                margin-bottom: 8px;
 
 }
 
@@ -292,16 +294,15 @@ background: #fff;
         column-gap: 24px;
         row-gap: 48px;
 }
-.portfolio-list{
-        width: calc((100% - 48px) / 3);
-        
-}
 .port-container{
         padding: 32px 16px;
         border: 1px solid #e7e9fc;
         border-top: none;
         margin-bottom: 8px;
-        
+
+}
+.portfolio-li{
+        width: calc((100% - 48px) / 3);
 }
 /* ====== /portfolio ====== */
 
