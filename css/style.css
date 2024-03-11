@@ -169,7 +169,10 @@ background: #fff;
 
 /* ====== /hero ====== */
 /* ====== /benefits-sect ====== */
-
+.section-2{
+        padding: 120px 0;
+        
+}
 .benefits-sect{
         color:#2e2f42;
 }
