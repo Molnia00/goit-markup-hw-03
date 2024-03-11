@@ -143,6 +143,8 @@ background: #fff;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
+        max-width: 496px;
+
 }
 
 .hero-btn{
@@ -153,7 +155,11 @@ background: #fff;
         letter-spacing: 0.04em;
         color: #fff;
         background: #4d5ae5;
-        
+        display: block;
+        min-width: 169px;
+        height: 56px;
+        border: none;
+        border-radius: 4px;
 }
 
 .hero-btn:focus,
