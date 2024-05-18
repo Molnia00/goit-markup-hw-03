@@ -181,10 +181,10 @@ background: #fff;
  .benefit-li{
         width: calc((100% - 72px) / 4)
  }
-.benefits-sect{
+/*.benefits-sect{
         color:#2e2f42;
         margin-bottom: 8px;
-}
+}---- */
 
 .benefits-tit{
         margin-bottom: 8px;
